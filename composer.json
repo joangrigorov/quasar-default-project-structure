@@ -1,0 +1,20 @@
+{
+    "name": "quasar-framework/quasar-default-project-structure",
+    "description": "Quasar Framework Default Project Structure",
+    "type": "library",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/sasquatch-mc/quasar-framework"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "quasar-framework/quasar-framework": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "App": "src/"
+        }
+    }
+}

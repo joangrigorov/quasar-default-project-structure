@@ -1,0 +1,27 @@
+{
+    "hash": "bab9cb24d9e7d270089f0aeb5318362d",
+    "packages": [
+        {
+            "package": "doctrine/common",
+            "version": "2.2.2"
+        },
+        {
+            "package": "doctrine/dbal",
+            "version": "2.2.2"
+        },
+        {
+            "package": "quasar-framework/quasar-framework",
+            "version": "dev-master",
+            "source-reference": "dda6734c7c0b9fdb23fe535ffd71ae6080d9e00a",
+            "commit-date": "1343766459"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "quasar-framework/quasar-framework": 20
+    }
+}

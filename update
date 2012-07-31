@@ -1,0 +1,3 @@
+#!/bin/sh
+php composer.phar update
+find ./vendor -name ".git" -exec rm -rf {} \;

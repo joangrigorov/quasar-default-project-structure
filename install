@@ -1,0 +1,3 @@
+#!/bin/sh
+php composer.phar install
+find ./vendor -name ".git" -exec rm -rf {} \;
