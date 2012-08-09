@@ -11,11 +11,5 @@ return array(
                 'charset' => 'utf8'
             )
         )
-    ),
-        
-    'Quasar\Db\TableGateway\TableGateway' => array(
-        'params' => array(
-            'table' => 'cities'
-        )
     )
 );
