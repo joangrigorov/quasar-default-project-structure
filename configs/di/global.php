@@ -53,7 +53,7 @@ return array(
             'Quasar\Broker\HelperBroker' => array(
                 'params' => array(
                     'namespaces' => array(
-                        'Quasar\View\Helper\Helper'
+                        'Quasar\View\Helper'
                     )
                 )
             )
